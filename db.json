@@ -59,9 +59,11 @@
 	"id":1001,
 	"activeOutput":true,
 	"activeInput":true
-},{
+    },
+    {
 	"id":1002,
 	"activeOutput":true,
 	"activeInput":true
-}
+    }
+   ]
 }

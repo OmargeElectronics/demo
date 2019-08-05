@@ -1,14 +1,67 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "ioInfos": [
+        {
+            "id": 1001,
+            "defaultName": "IO1",
+            "input": false,
+            "output": false,
+            "activeOutput": false,
+            "auto": false
+        },
+        {
+            "id": 1002,
+            "defaultName": "IO2",
+            "input": false,
+            "output": false,
+            "activeOutput": false,
+            "auto": false
+        }
+        {
+            "id": 1003,
+            "defaultName": "IO3",
+            "input": false,
+            "output": false,
+            "activeOutput": false,
+            "auto": false
+        },
+        {
+            "id": 1004,
+            "defaultName": "IO4",
+            "input": false,
+            "output": false,
+            "activeOutput": false,
+            "auto": false
+        }
+    ],
+  "timeManagements": [
+        {
+            "id": 2001,
+            "name": "TM1",
+            "startTime": "1200",
+            "endTime": "1300",
+            "isActive": false
+        },
+        {
+            "id": 2002,
+            "name": "TM2",
+            "startTime": "1300",
+            "endTime": "1400",
+            "isActive": false
+        },
+        {
+            "id": 2003,
+            "name": "TM3",
+            "isActive": false
+        }
+    ],
+  "outputStates":[
+    {
+	"id":1001,
+	"activeOutput":true,
+	"activeInput":true
+},{
+	"id":1002,
+	"activeOutput":true,
+	"activeInput":true
+}
 }

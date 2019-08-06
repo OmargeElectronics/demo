@@ -1,6 +1,6 @@
 ## Try it
 
-[https://github.com/OmargeElectronics/demo](https://github.com/OmargeElectronics/demo)
+[https://my-json-server.typicode.com/OmargeElectronics/demo](https://my-json-server.typicode.com/OmargeElectronics/demo)
 
 ## Use your own data
 

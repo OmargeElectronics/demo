@@ -3,7 +3,7 @@
         {
             "id": 1001,
             "defaultName": "IO1",
-            "input": false,
+            "input": true,
             "output": false,
             "activeOutput": false,
             "auto": false
@@ -11,7 +11,7 @@
         {
             "id": 1002,
             "defaultName": "IO2",
-            "input": false,
+            "input": true,
             "output": false,
             "activeOutput": false,
             "auto": false
@@ -20,7 +20,7 @@
             "id": 1003,
             "defaultName": "IO3",
             "input": false,
-            "output": false,
+            "output": true,
             "activeOutput": false,
             "auto": false
         },
@@ -28,7 +28,7 @@
             "id": 1004,
             "defaultName": "IO4",
             "input": false,
-            "output": false,
+            "output": true,
             "activeOutput": false,
             "auto": false
         }

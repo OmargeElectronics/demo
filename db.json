@@ -1,21 +1,6 @@
 {
   "ioInfos": [
-        {
-            "id": 1001,
-            "defaultName": "IO1",
-            "input": true,
-            "output": false,
-            "activeOutput": false,
-            "auto": false
-        },
-        {
-            "id": 1002,
-            "defaultName": "IO2",
-            "input": true,
-            "output": false,
-            "activeOutput": false,
-            "auto": false
-        },
+        
         {
             "id": 1003,
             "defaultName": "IO3",

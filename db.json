@@ -2,6 +2,14 @@
   "ioInfos": [
         
         {
+            "id": 1002,
+            "defaultName": "IO2",
+            "input": true,
+            "output": true,
+            "activeOutput": false,
+            "auto": true
+        },
+	  {
             "id": 1003,
             "defaultName": "IO3",
             "input": false,
@@ -31,11 +39,6 @@
             "name": "TM2",
             "startTime": "1300",
             "endTime": "1400",
-            "isActive": false
-        },
-        {
-            "id": 2004,
-            "name": "TM4",
             "isActive": false
         }
     ],

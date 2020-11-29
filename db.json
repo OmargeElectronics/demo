@@ -54,11 +54,13 @@
 			"activeInput":true
 		}
    ],
-   "esp32" : [
-	   "chipID": 123,
-	   "data": [
-	   	2.30,
-	   	34.45
-	   ]
-	]
+   "esp32": [
+               {
+                       "id" : "ChipID",
+                       "data" : [
+                                    2.30,
+                                    34.45
+                        ]
+               }
+            ]
 }

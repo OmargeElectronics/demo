@@ -53,5 +53,12 @@
 			"activeOutput":true,
 			"activeInput":true
 		}
-   ]
+   ],
+   "esp32" : [
+	   "chipID": 123,
+	   "data": [
+	   	2.30,
+	   	34.45
+	   ]
+	]
 }
